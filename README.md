@@ -3,7 +3,7 @@
     <head>
         <title>sambalpur.visite places.in  places </title> 
        </head>
-       <body> 
+       <body> <bgcolor="blue">
       <h1> <br>sambalpur most popular places </br></h1> 
    <b>   <h3><p>Maa samleiswari temple </h3></p> </b>     
      <img src="img_maa.jpg" alt="samlei.temp" width="367" height="377">
